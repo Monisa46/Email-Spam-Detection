@@ -42,9 +42,9 @@ SVM provides better overall balance and higher accuracy, making it more suitable
 
 
 
-Live Demo
 
-youtube link with voice over :
+
+youtube link with voice over :https://youtu.be/LoNC3G75su8
 
 License
 
